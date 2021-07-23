@@ -1,7 +1,7 @@
 export const categories = [
   {
     "CategoryID": 1,
-    "CategoryName": "Beverages",
+    "CategoryName": "Beverages 2",
     "Description": "Soft drinks, coffees, teas, beers, and ales"
   },
   {
